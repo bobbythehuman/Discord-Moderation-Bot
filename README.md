@@ -141,14 +141,20 @@ Times are parsed by the bot using suffixes: `w` (weeks), `d` (days), `h` (hours)
 
 ---
 
-<!-- ## Contributing
+## Contributing
 
-Contributions are welcome. Please open issues or PRs to discuss changes. However, note that this is old work and isn't actively maintained.
+Contributions are welcome. Please open issues or PRs to discuss changes. Note this project is not actively maintained.
 
 ---
 
 ## License
 
-This project has no license currently.
+This project is licensed under the GNU Affero General Public License v3.0 (AGPLv3). See the `LICENSE` file for full terms.
 
---- -->
+---
+
+<!-- ## Contact
+
+For questions or copyright inquiries, contact: https://github.com/bobbythehuman  -->
+
+<!-- --- -->
